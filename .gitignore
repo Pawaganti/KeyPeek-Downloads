@@ -1,0 +1,8 @@
+*.zip
+*.exe
+*.cab
+*.log
+*.pdb
+.env*
+Thumbs.db
+.DS_Store
